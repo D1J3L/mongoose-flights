@@ -1,8 +1,7 @@
 # AeroStats
 ---------------
-Welcome to AeroStats! Combining transponder data API(updates every 10 seconds no limit) and a mapping API, we can plot all the planes in a specific area on map.
-The planes will be clickable to reveal its velocity, heading direction, country of origin etc
-These data will be used for CRUD-ing, such as saving to watchlist(to be clicked at a later date and revealed in another map), commented/edited if saved into watchlist, as well as deleted if necessary
+Welcome to AeroStats! AeroStats combines a transponder data API and a mapping API, and plots all planes in a specific view on the map.
+Every plane on the map will be clickable to reveal its velocity, heading direction, country of origin etc. Users can also login and save planes to their watchlist as well as add passengers and comments to each flight. Planes in the watchlist that are still airborne will have a location button that will pull you to that planes current location on the map. Planes that are no longer in flight will read "OFFLINE" in the watchlist. Users can make updates to passengers and comments, and flights, passengers, and comments will all be deleteable by the user as well.
 
 
 ## Screenshots
