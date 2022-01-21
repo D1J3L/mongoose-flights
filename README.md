@@ -8,6 +8,7 @@ Every plane on the map will be clickable to reveal its velocity, heading directi
 
 ## Screenshots
 ---------------
+<img> <img> <img>
 
 ## Technologies
 ---------------
