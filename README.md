@@ -6,6 +6,7 @@
 
 #Technologies
 ---------------
+HTML, CSS, JavaScript, Django, Python, Heroku
 
 #Links
 ---------------
