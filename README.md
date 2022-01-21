@@ -11,7 +11,7 @@ AeroStats is an app designed for aviation enthusiasts to track flights in real t
 
 ## Technologies Used
 ---------------
-HTML, CSS, JavaScript, Django, Python, PostgreSQL, Heroku, OpenSky Network API
+HTML, CSS, JavaScript, Django, Python, PostgreSQL, Heroku, OpenSky Network API, Leaflet API
 
 ## Links
 ---------------
