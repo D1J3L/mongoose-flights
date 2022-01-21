@@ -2,14 +2,14 @@
 ---------------
 Welcome to AeroStats!
 
-#Screenshots
+## Screenshots
 ---------------
 
-#Technologies
+## Technologies
 ---------------
 HTML, CSS, JavaScript, Django, Python, Heroku
 
-#Links
+## Links
 ---------------
 [AeroStats on Heroku](link)
 [Trello Board](https://trello.com/b/ntnm7eLZ/aerostats)
