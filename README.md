@@ -1,4 +1,4 @@
-# AeroStats    ✈️ 
+# AeroStats
 ---------------
 Welcome to AeroStats(<<heroku link here??)!   
 
