@@ -10,7 +10,7 @@ Every plane on the map will be clickable to reveal its velocity, heading directi
 ---------------
 <img> <img> <img>
 
-## Technologies
+## Technologies Used
 ---------------
 HTML, CSS, JavaScript, Django, Python, PostgreSQL, Heroku
 
