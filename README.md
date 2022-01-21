@@ -7,7 +7,7 @@ AeroStats is an app designed for aviation enthusiasts to track flights in real t
 
 ## Screenshots
 ---------------
-<img> <img> <img>
+<img alt="Start" src="https://i.imgur.com/N1rvTok.jpg" height="350" width="300">
 
 ## Technologies Used
 ---------------
